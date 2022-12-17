@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=george827&" alt="george827" /></p>
 
-![george827's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=george827&theme=redical&hide_border=true&area=true)
+[george827's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=george827&theme=redical&hide_border=true&area=true)
+
+<p>You can check out my portfolio <a href="https://george827.github.io/My-Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
