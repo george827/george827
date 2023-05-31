@@ -29,23 +29,23 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools: </b> 
 
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-<img align="left" style="margin-right: 10px;" src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+<img align="left" style="margin-right: 10px; margin-bottom: 5px;" src="https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
 <br><br>
 
 <hr>
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=george827&show_icons=true&locale=en" alt="george827" />
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=george827&show_icons=true&locale=en" alt="george827" />
 
 
 <img align="left" width="300" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=george827&show_icons=true&locale=en&layout=compact" alt="george827" />
